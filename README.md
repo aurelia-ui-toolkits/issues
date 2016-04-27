@@ -3,9 +3,10 @@ This repository's primary purpose is to host the discussions on aurelia-ui-toolk
 
 As this repository contains no code and is focused on mainly generic issues related to all actual repositories:
 
-- https://github.com/aurelia-ui-toolkits/aurelia-kendoui-plugin
-- https://github.com/aurelia-ui-toolkits/aurelia-twboostrap-bridge
-- https://github.com/aurelia-ui-toolkits/aurelia-materialize-plugin
+- https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge
+- https://github.com/aurelia-ui-toolkits/aurelia-twbootstrap-bridge
+- https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge
+- https://github.com/aurelia-ui-toolkits/aurelia-syncfusion-bridge
 
 this repository does not have any assignable tasks - all such items "live" in one of the above three repositories.
 
