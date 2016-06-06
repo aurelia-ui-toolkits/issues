@@ -7,15 +7,10 @@ As this repository contains no code and is focused on mainly generic issues rela
 - https://github.com/aurelia-ui-toolkits/aurelia-twbootstrap-bridge
 - https://github.com/aurelia-ui-toolkits/aurelia-materialize-bridge
 - https://github.com/aurelia-ui-toolkits/aurelia-syncfusion-bridge
+- https://github.com/aurelia-ui-toolkits/aurelia-v-grid
+- https://github.com/aurelia-ui-toolkits/aurelia-mdl-bridge
 
-this repository does not have any assignable tasks - all such items "live" in one of the above three repositories.
-
-I would like to hear people's opinion on the division of all `aurelia-ui-toolkits` issues in three actual repositories (which contain issues related to that specific repo) and one "dummy" repo that has no code and has only general (specific plugin independent) issues.
-
-No general issue should have actionable tasks - instead it should create a reference to a "subclass" of such task as "projected" on that specific plugin. Ths would ensure the consistency of task assignments across all repositories.
-
-Any comments / improvements?
-
+this repository does not have any assignable tasks - all such items "live" in one of the above six repositories, unless the issues discusses the a problem that is common to all Aurelia-UI-Toolkits products
 
 
 
